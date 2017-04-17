@@ -25,7 +25,7 @@ int main()
 	for(i=0,j=3;i<5;i++,j++)
 	{
 		
-		mysql_query(c,"insert into grade ("++",name,english,chinese,math) values (2,'yifeng',50,90,70)");
+		mysql_query(c,"insert into grade ("++",name,english,chinese,math) values (2,'yifeng',50,90,70)");  //这个程序未完成
 	}
 
 	return 0;
