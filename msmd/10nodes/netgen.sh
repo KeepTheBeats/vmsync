@@ -17,4 +17,4 @@ do
 	((b=b+1))
 done
 
-rm *.gb *.script
+rm *.script
